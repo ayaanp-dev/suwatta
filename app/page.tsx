@@ -23,7 +23,6 @@ export default function Home() {
 	return (
     <body>
 		<main className="flex-1 w-full md:w-4/5 lg:w-3/5 mx-auto overflow-hidden md:overflow-visible">
-      <Navbar />
       <div className="flex h-screen">
       <section className="relative h-full w-full flex flex-col justify-center items-center gap-12 text-center">
 				<motion.div
@@ -31,8 +30,8 @@ export default function Home() {
 						scale: [1, 1.1, 1.1, 1, 1],
 						// rotate: [0, 0, 180, 180, 0],
 						backgroundColor: [
-							"#2563EB",
-							"#1d4fbc",
+							"#2563eb",
+							"#3b82f6",
 						],
 						borderRadius: ["20%", "20%", "30%", "30%", "40%"],
 					}}
@@ -43,7 +42,7 @@ export default function Home() {
 						repeat: Infinity,
 						repeatDelay: 1,
 					}}
-					className="w-full 2xl:w-2/3 h-[260px] absolute z-10 blur-[80px]"
+					className="w-full 2xl:w-2/3 h-[260px] absolute z-10 blur-[80px] opacity-70"
 				/>
 				<h1 className="max-w-5xl text-primary font-bold text-[62px] mx-2 leading-none md:text-8xl z-20">
 					Mastering the SAT, {""}

@@ -2,6 +2,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 import "./globals.css";
 import { GeistSans } from 'geist/font/sans';
 import { GeistMono } from 'geist/font/mono';
+import Navbar from "@/components/ui/navbar";
  
 export default function RootLayout({
 	children,
@@ -19,6 +20,7 @@ export default function RootLayout({
             enableSystem
             disableTransitionOnChange
           >
+            <Navbar />
             {children}
           </ThemeProvider>
         </body>
