@@ -21,8 +21,27 @@ import {
 } from "@/components/ui/dropdown-menu"
 import { Input } from "@/components/ui/input"
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet"
+import { LogoutLink } from "@kinde-oss/kinde-auth-nextjs/components"
+import {getKindeServerSession} from "@kinde-oss/kinde-auth-nextjs/server";
+import { toast, useToast } from "@/components/ui/use-toast"
+import { ToastAction } from "@/components/ui/toast"
+import ProfileLink from "@/components/ui/profile-link"
 
-const Navbar = () => {
+export default async function Navbar() {
+  const {
+    getAccessToken,
+    getBooleanFlag,
+    getFlag,
+    getIdToken,
+    getIntegerFlag,
+    getOrganization,
+    getPermission,
+    getPermissions,
+    getStringFlag,
+    getUser,
+    getUserOrganizations,
+    isAuthenticated
+  } = getKindeServerSession();
     return (
           <header className="sticky top-0 flex h-16 items-center gap-4 border-b bg-background px-4 md:px-6 flex justify-center items-center">
             <nav className="hidden flex-col gap-6 text-lg font-medium md:flex md:flex-row md:items-center md:gap-5 md:text-sm lg:gap-6">
@@ -113,24 +132,7 @@ const Navbar = () => {
                 </nav>
               </SheetContent>
             </Sheet>
-            <DropdownMenu>
-            <DropdownMenuTrigger asChild>
-              <Button variant="secondary" size="icon" className="rounded-full">
-                <CircleUser className="h-5 w-5" />
-                <span className="sr-only">Toggle user menu</span>
-              </Button>
-            </DropdownMenuTrigger>
-            <DropdownMenuContent align="end">
-              <DropdownMenuLabel>My Account</DropdownMenuLabel>
-              <DropdownMenuSeparator />
-              <DropdownMenuItem>Settings</DropdownMenuItem>
-              <DropdownMenuItem>Support</DropdownMenuItem>
-              <DropdownMenuSeparator />
-              <DropdownMenuItem>Logout</DropdownMenuItem>
-            </DropdownMenuContent>
-          </DropdownMenu>
+            <ProfileLink auth={await isAuthenticated()} />
           </header>
     )
 };
-
-export default Navbar;
