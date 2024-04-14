@@ -14,10 +14,22 @@ import {
 } from "../components/ui/dialog";
 import { WarningIcon } from "../components/ui/icons";
 import { Input } from "../components/ui/input";
-import { Label } from "../components/ui/label";
 import { Button } from "@/components/ui/button"
 import Link from 'next/link'
 import Navbar from '@/components/ui/navbar';
+import {
+	AlertDialog,
+	AlertDialogAction,
+	AlertDialogCancel,
+	AlertDialogContent,
+	AlertDialogDescription,
+	AlertDialogFooter,
+	AlertDialogHeader,
+	AlertDialogTitle,
+	AlertDialogTrigger,
+  } from "@/components/ui/alert-dialog"
+  import {RegisterLink, LoginLink} from "@kinde-oss/kinde-auth-nextjs/components";
+
 
 export default function Home() {
 	return (
@@ -66,22 +78,23 @@ export default function Home() {
 				</h1>
         <div className="flex gap-3 justify-start z-20">
         <div className="group relative">
-						<Button variant="outline"
+<Button variant="outline"
 							className="group relative inline-block h-[45px] w-[140px] md:h-[60px] md:w-[150px] overflow-hidden rounded-full text-lg text-white"
 						>
 
 							<span className="absolute inset-0 z-10 m-auto flex w-4/5 items-center justify-center font-semibold">
-								Sign up!
+								<RegisterLink>Sign up!</RegisterLink>
 							</span>
 						</Button>
 					</div>
+
           <div className="group relative">
-						<Button variant="outline"
+<Button variant="outline"
 							className="group relative inline-block h-[45px] w-[140px] md:h-[60px] md:w-[150px] overflow-hidden rounded-full text-lg text-white"
 						>
 
 							<span className="absolute inset-0 z-10 m-auto flex w-4/5 items-center justify-center font-semibold">
-								Login
+								<LoginLink>Login</LoginLink>
 							</span>
 						</Button>
 					</div>

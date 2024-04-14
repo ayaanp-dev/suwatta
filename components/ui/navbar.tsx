@@ -58,7 +58,7 @@ const Navbar = () => {
               </Link>
               <Link
                 href="#"
-                className="text-foreground transition-colors hover:text-foreground"
+                className="text-muted-foreground transition-colors hover:text-foreground"
               >
                 Contact
               </Link>
