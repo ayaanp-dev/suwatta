@@ -1,3 +1,5 @@
+"use server"
+
 import Link from "next/link"
 import { CircleUser, Menu, Package2, Search } from "lucide-react"
 
@@ -52,7 +54,7 @@ export default async function Navbar() {
                 Suwatta
               </Link>
               <Link
-                href="#"
+                href="/dashboard"
                 className="text-muted-foreground transition-colors hover:text-foreground"
               >
                 Dashboard
@@ -64,7 +66,7 @@ export default async function Navbar() {
                 Leaderboard
               </Link>
               <Link
-                href="#"
+                href="/pricing"
                 className="text-muted-foreground transition-colors hover:text-foreground"
               >
                 Pricing

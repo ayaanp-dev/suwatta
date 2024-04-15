@@ -1,0 +1,827 @@
+[
+    {
+      "question": "What is the value of 2x + 3 when x = 5?",
+      "choices": ["11", "13", "15", "17"],
+      "answer": "13"
+    },
+    {
+      "question": "Simplify: 3x^2 - 2x + 5x - 4",
+      "choices": ["3x^2 + 3x - 4", "3x^2 + 3x + 4", "3x^2 - 3x - 4", "3x^2 - 3x + 4"],
+      "answer": "3x^2 + 3x - 4"
+    },
+    {
+      "question": "If 4x - 7 = 9, what is the value of x?",
+      "choices": ["4", "5", "6", "7"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the perimeter of a rectangle with length 12 units and width 8 units?",
+      "choices": ["28 units", "32 units", "40 units", "48 units"],
+      "answer": "40 units"
+    },
+    {
+      "question": "If a triangle has sides of lengths 7, 24, and 25 units, what type of triangle is it?",
+      "choices": ["Equilateral", "Isosceles", "Scalene", "Right"],
+      "answer": "Right"
+    },
+    {
+      "question": "What is the value of 5! (5 factorial)?",
+      "choices": ["120", "150", "180", "210"],
+      "answer": "120"
+    },
+    {
+      "question": "If 2x + 3y = 15 and x - y = 3, what is the value of y?",
+      "choices": ["2", "3", "4", "5"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the sum of the first 30 positive integers?",
+      "choices": ["420", "450", "480", "510"],
+      "answer": "465"
+    },
+    {
+      "question": "If a rectangle has a length of 10 units and an area of 60 square units, what is its width?",
+      "choices": ["4 units", "5 units", "6 units", "7 units"],
+      "answer": "6 units"
+    },
+    {
+      "question": "If 3x + 2 = 14, what is the value of x?",
+      "choices": ["4", "5", "6", "7"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the value of (3x - 2)(2x + 5) when x = 3?",
+      "choices": ["55", "61", "67", "73"],
+      "answer": "61"
+    },
+    {
+      "question": "If 5x - 2y = 11 and 2x + 3y = 16, what is the value of x?",
+      "choices": ["1", "2", "3", "4"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the square root of 196?",
+      "choices": ["12", "14", "16", "18"],
+      "answer": "14"
+    },
+    {
+      "question": "If a circle has a radius of 8 units, what is its circumference?",
+      "choices": ["16π units", "32π units", "48π units", "64π units"],
+      "answer": "16π units"
+    },
+    {
+      "question": "What is the value of 2^5 × 3^3?",
+      "choices": ["216", "324", "432", "648"],
+      "answer": "432"
+    },
+    {
+      "question": "If 6x - 5 = 7, what is the value of x?",
+      "choices": ["2", "3", "4", "5"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the area of a triangle with base 9 units and height 12 units?",
+      "choices": ["36 square units", "54 square units", "72 square units", "108 square units"],
+      "answer": "54 square units"
+    },
+    {
+      "question": "If a rectangle has a perimeter of 36 units and a length of 10 units, what is its width?",
+      "choices": ["4 units", "6 units", "8 units", "10 units"],
+      "answer": "6 units"
+    },
+    {
+      "question": "What is the value of 3y^2 when y = 4?",
+      "choices": ["36", "48", "60", "72"],
+      "answer": "48"
+    },
+    {
+      "question": "If 2x - 3 = 11, what is the value of x?",
+      "choices": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "What is the value of 8^2 - 6^2?",
+      "choices": ["20", "28", "36", "44"],
+      "answer": "28"
+    },
+    {
+      "question": "What is the value of x^2 + 6x + 9 when x = 3?",
+      "choices": ["18", "21", "24", "27"],
+      "answer": "27"
+    },
+    {
+      "question": "If 3x + 4y = 20 and x + y = 8, what is the value of y?",
+      "choices": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the value of √144?",
+      "choices": ["10", "12", "14", "16"],
+      "answer": "12"
+    },
+    {
+      "question": "If a rectangle has a length of 15 units and a width of 6 units, what is its perimeter?",
+      "choices": ["36 units", "42 units", "48 units", "54 units"],
+      "answer": "42 units"
+    },
+    {
+      "question": "What is the value of 2^6 × 5^2?",
+      "choices": ["600", "800", "1000", "1200"],
+      "answer": "1600"
+    },
+    {
+      "question": "If 4x - 2 = 10, what is the value of x?",
+      "choices": ["3", "4", "5", "6"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the area of a rectangle with length 7 units and width 4 units?",
+      "choices": ["21 square units", "24 square units", "28 square units", "32 square units"],
+      "answer": "28 square units"
+    },
+    {
+      "question": "If a rectangle has a perimeter of 20 units and a length of 6 units, what is its width?",
+      "choices": ["2 units", "3 units", "4 units", "5 units"],
+      "answer": "5 units"
+    },
+    {
+      "question": "What is the value of 2y^2 when y = 5?",
+      "choices": ["30", "40", "50", "60"],
+      "answer": "50"
+    },
+    {
+      "question": "If 2x + 5 = 17, what is the value of x?",
+      "choices": ["6", "7", "8", "9"],
+      "answer": "6"
+    },
+    {
+      "question": "What is the value of 9^2 - 7^2?",
+      "choices": ["24", "40", "48", "64"],
+      "answer": "40"
+    },
+    {
+      "question": "What is the value of x^2 - 4x + 4 when x = 2?",
+      "choices": ["0", "1", "2", "3"],
+      "answer": "4"
+    },
+    {
+      "question": "If 3x + 2y = 16 and x - y = 4, what is the value of x?",
+      "choices": ["2", "3", "4", "5"],
+      "answer": "6"
+    },
+    {
+      "question": "What is the value of √225?",
+      "choices": ["12", "15", "18", "21"],
+      "answer": "15"
+    },
+    {
+      "question": "If a rectangle has a length of 12 units and a width of 5 units, what is its perimeter?",
+      "choices": ["24 units", "34 units", "38 units", "44 units"],
+      "answer": "34 units"
+    },
+    {
+      "question": "What is the value of 3^4 × 4^3?",
+      "choices": ["1728", "2592", "3456", "5184"],
+      "answer": "5184"
+    },
+    {
+      "question": "If 5x - 3 = 7, what is the value of x?",
+      "choices": ["2", "3", "4", "5"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the area of a triangle with base 10 units and height 6 units?",
+      "choices": ["24 square units", "30 square units", "36 square units", "40 square units"],
+      "answer": "30 square units"
+    },
+    {
+      "question": "If a rectangle has a perimeter of 32 units and a length of 9 units, what is its width?",
+      "choices": ["4 units", "5 units", "6 units", "7 units"],
+      "answer": "5 units"
+    },
+    {
+      "question": "What is the value of 4y^2 when y = 6?",
+      "choices": ["96", "144", "192", "240"],
+      "answer": "144"
+    },
+    {
+      "question": "If 3x - 2 = 10, what is the value of x?",
+      "choices": ["4", "5", "6", "7"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the value of 7^2 - 5^2?",
+      "choices": ["24", "36", "48", "56"],
+      "answer": "24"
+    },
+    {
+      "question": "What is the value of x^2 + 5x + 6 when x = 2?",
+      "choices": ["12", "14", "16", "18"],
+      "answer": "16"
+    },
+    {
+      "question": "If 4x - 3y = 8 and x + y = 5, what is the value of y?",
+      "choices": ["1", "2", "3", "4"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the value of √196?",
+      "choices": ["12", "14", "16", "18"],
+      "answer": "14"
+    },
+    {
+      "question": "If a rectangle has a length of 15 units and a width of 8 units, what is its perimeter?",
+      "choices": ["38 units", "46 units", "52 units", "56 units"],
+      "answer": "46 units"
+    },
+    {
+      "question": "What is the value of 2^7 × 3^4?",
+      "choices": ["1536", "2304", "3456", "4608"],
+      "answer": "2304"
+    },
+    {
+      "question": "If 6x - 4 = 16, what is the value of x?",
+      "choices": ["3", "4", "5", "6"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the area of a rectangle with length 8 units and width 5 units?",
+      "choices": ["30 square units", "35 square units", "40 square units", "45 square units"],
+      "answer": "40 square units"
+    },
+    {
+      "question": "If a rectangle has a perimeter of 24 units and a length of 7 units, what is its width?",
+      "choices": ["3 units", "4 units", "5 units", "6 units"],
+      "answer": "5 units"
+    },
+    {
+      "question": "What is the value of 3y^2 when y = 7?",
+      "choices": ["126", "147", "168", "189"],
+      "answer": "147"
+    },
+    {
+      "question": "If 2x + 4 = 12, what is the value of x?",
+      "choices": ["4", "5", "6", "7"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the value of 10^2 - 6^2?",
+      "choices": ["52", "64", "76", "88"],
+      "answer": "64"
+    },
+    {
+      "question": "What is the value of x^2 - 6x + 9 when x = 3?",
+      "choices": ["6", "9", "12", "15"],
+      "answer": "9"
+    },
+    {
+      "question": "If 4x + 3y = 24 and 2x - y = 6, what is the value of y?",
+      "choices": ["2", "3", "4", "5"],
+      "answer": "6"
+    },
+    {
+      "question": "What is the value of √225?",
+      "choices": ["12", "15", "18", "21"],
+      "answer": "15"
+    },
+    {
+      "question": "If a rectangle has a length of 16 units and a width of 5 units, what is its perimeter?",
+      "choices": ["38 units", "42 units", "46 units", "50 units"],
+      "answer": "42 units"
+    },
+    {
+      "question": "What is the value of 2^8 × 5^3?",
+      "choices": ["6400", "12800", "25600", "51200"],
+      "answer": "51200"
+    },
+    {
+      "question": "If 8x - 3 = 13, what is the value of x?",
+      "choices": ["2", "3", "4", "5"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the area of a triangle with base 12 units and height 8 units?",
+      "choices": ["36 square units", "48 square units", "54 square units", "64 square units"],
+      "answer": "48 square units"
+    },
+    {
+      "question": "If a rectangle has a perimeter of 30 units and a length of 9 units, what is its width?",
+      "choices": ["3 units", "4 units", "5 units", "6 units"],
+      "answer": "3 units"
+    },
+    {
+      "question": "What is the value of 5y^2 when y = 4?",
+      "choices": ["80", "100", "120", "140"],
+      "answer": "100"
+    },
+    {
+      "question": "If 3x - 2 = 10, what is the value of x?",
+      "choices": ["4", "5", "6", "7"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the value of 7^2 - 5^2?",
+      "choices": ["24", "36", "48", "56"],
+      "answer": "24"
+    },
+    {
+      "question": "What is the value of x^2 + 5x + 6 when x = 2?",
+      "choices": ["12", "14", "16", "18"],
+      "answer": "16"
+    },
+    {
+      "question": "If 4x - 3y = 8 and x + y = 5, what is the value of y?",
+      "choices": ["1", "2", "3", "4"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the value of √196?",
+      "choices": ["12", "14", "16", "18"],
+      "answer": "14"
+    },
+    {
+      "question": "If a rectangle has a length of 15 units and a width of 8 units, what is its perimeter?",
+      "choices": ["38 units", "46 units", "52 units", "56 units"],
+      "answer": "46 units"
+    },
+    {
+      "question": "What is the value of 2^7 × 3^4?",
+      "choices": ["1536", "2304", "3456", "4608"],
+      "answer": "2304"
+    },
+    {
+      "question": "If 6x - 4 = 16, what is the value of x?",
+      "choices": ["3", "4", "5", "6"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the area of a rectangle with length 8 units and width 5 units?",
+      "choices": ["30 square units", "35 square units", "40 square units", "45 square units"],
+      "answer": "40 square units"
+    },
+    {
+      "question": "If a rectangle has a perimeter of 24 units and a length of 7 units, what is its width?",
+      "choices": ["3 units", "4 units", "5 units", "6 units"],
+      "answer": "5 units"
+    },
+    {
+      "question": "What is the value of 3y^2 when y = 7?",
+      "choices": ["126", "147", "168", "189"],
+      "answer": "147"
+    },
+    {
+      "question": "If 2x + 4 = 12, what is the value of x?",
+      "choices": ["4", "5", "6", "7"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the value of 10^2 - 6^2?",
+      "choices": ["52", "64", "76", "88"],
+      "answer": "64"
+    },
+    {
+      "question": "What is the value of x^2 - 6x + 9 when x = 3?",
+      "choices": ["6", "9", "12", "15"],
+      "answer": "9"
+    },
+    {
+      "question": "If 4x + 3y = 24 and 2x - y = 6, what is the value of y?",
+      "choices": ["2", "3", "4", "5"],
+      "answer": "6"
+    },
+    {
+      "question": "What is the value of √225?",
+      "choices": ["12", "15", "18", "21"],
+      "answer": "15"
+    },
+    {
+      "question": "If a rectangle has a length of 16 units and a width of 5 units, what is its perimeter?",
+      "choices": ["38 units", "42 units", "46 units", "50 units"],
+      "answer": "42 units"
+    },
+    {
+      "question": "What is the value of 2^8 × 5^3?",
+      "choices": ["6400", "12800", "25600", "51200"],
+      "answer": "51200"
+    },
+    {
+      "question": "If 8x - 3 = 13, what is the value of x?",
+      "choices": ["2", "3", "4", "5"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the area of a triangle with base 12 units and height 8 units?",
+      "choices": ["36 square units", "48 square units", "54 square units", "64 square units"],
+      "answer": "48 square units"
+    },
+    {
+      "question": "If a rectangle has a perimeter of 30 units and a length of 9 units, what is its width?",
+      "choices": ["3 units", "4 units", "5 units", "6 units"],
+      "answer": "3 units"
+    },
+    {
+      "question": "What is the value of 5y^2 when y = 4?",
+      "choices": ["80", "100", "120", "140"],
+      "answer": "100"
+    },
+    {
+        "question": "What is the measure of an interior angle of a regular hexagon?",
+        "choices": ["120 degrees", "135 degrees", "140 degrees", "150 degrees"],
+        "answer": "120 degrees"
+      },
+      {
+        "question": "What is the area of a triangle with base 10 units and height 8 units?",
+        "choices": ["32 square units", "40 square units", "48 square units", "56 square units"],
+        "answer": "40 square units"
+      },
+      {
+        "question": "In a right triangle, if one acute angle measures 30 degrees, what is the measure of the other acute angle?",
+        "choices": ["30 degrees", "45 degrees", "60 degrees", "90 degrees"],
+        "answer": "60 degrees"
+      },
+      {
+        "question": "What is the perimeter of a square with side length 5 units?",
+        "choices": ["15 units", "20 units", "25 units", "30 units"],
+        "answer": "20 units"
+      },
+      {
+        "question": "In a circle with radius 6 units, what is the length of an arc that subtends a central angle of 60 degrees?",
+        "choices": ["3π units", "6π units", "9π units", "12π units"],
+        "answer": "π units"
+      },
+      {
+        "question": "If the area of a rectangle is 24 square units and the length is 6 units, what is its width?",
+        "choices": ["2 units", "3 units", "4 units", "5 units"],
+        "answer": "4 units"
+      },
+      {
+        "question": "What is the volume of a cube with edge length 3 units?",
+        "choices": ["9 cubic units", "18 cubic units", "27 cubic units", "36 cubic units"],
+        "answer": "27 cubic units"
+      },
+      {
+        "question": "If the perimeter of a rectangle is 30 units and the length is 8 units, what is its width?",
+        "choices": ["6 units", "7 units", "8 units", "9 units"],
+        "answer": "7 units"
+      },
+      {
+        "question": "What is the measure of the central angle of a circle that intercepts an arc of 90 degrees?",
+        "choices": ["45 degrees", "90 degrees", "120 degrees", "180 degrees"],
+        "answer": "90 degrees"
+      },
+      {
+        "question": "What is the area of a trapezoid with bases 6 units and 10 units, and height 8 units?",
+        "choices": ["64 square units", "72 square units", "80 square units", "96 square units"],
+        "answer": "64 square units"
+      },
+      {
+        "question": "In a triangle, if two sides have lengths 3 units and 4 units, what is the possible range for the length of the third side?",
+        "choices": ["1 < x < 5", "1 < x < 7", "1 < x < 8", "1 < x < 10"],
+        "answer": "1 < x < 7"
+      },
+      {
+        "question": "What is the measure of each interior angle of a regular pentagon?",
+        "choices": ["108 degrees", "120 degrees", "135 degrees", "144 degrees"],
+        "answer": "108 degrees"
+      },
+      {
+        "question": "What is the area of a circle with radius 5 units?",
+        "choices": ["25π square units", "50π square units", "75π square units", "100π square units"],
+        "answer": "25π square units"
+      },
+      {
+        "question": "In a right triangle, if one leg has length 5 units and the other leg has length 12 units, what is the length of the hypotenuse?",
+        "choices": ["13 units", "15 units", "17 units", "19 units"],
+        "answer": "13 units"
+      },
+      {
+        "question": "What is the volume of a rectangular prism with length 4 units, width 6 units, and height 3 units?",
+        "choices": ["48 cubic units", "54 cubic units", "72 cubic units", "108 cubic units"],
+        "answer": "72 cubic units"
+      },
+      {
+        "question": "If the area of a square is 49 square units, what is the length of its diagonal?",
+        "choices": ["5 units", "7 units", "10 units", "14 units"],
+        "answer": "7 units"
+      },
+      {
+        "question": "What is the measure of each interior angle of a regular octagon?",
+        "choices": ["135 degrees", "140 degrees", "145 degrees", "150 degrees"],
+        "answer": "135 degrees"
+      },
+      {
+        "question": "What is the area of a triangle with sides of lengths 7 units, 8 units, and 9 units?",
+        "choices": ["24 square units", "26 square units", "30 square units", "36 square units"],
+        "answer": "24 square units"
+      },
+      {
+        "question": "In a circle with radius 10 units, what is the length of an arc that subtends a central angle of 45 degrees?",
+        "choices": ["5π units", "10π units", "15π units", "20π units"],
+        "answer": "5π units"
+      },
+      {
+        "question": "If the area of a rectangle is 48 square units and the length is 8 units, what is its width?",
+        "choices": ["4 units", "5 units", "6 units", "7 units"],
+        "answer": "6 units"
+      },
+      {
+        "question": "What is the volume of a cube with surface area 54 square units?",
+        "choices": ["27 cubic units", "36 cubic units", "45 cubic units", "54 cubic units"],
+        "answer": "27 cubic units"
+      },
+      {
+        "question": "If the perimeter of a rectangle is 24 units and the length is 6 units, what is its width?",
+        "choices": ["3 units", "4 units", "5 units", "6 units"],
+        "answer": "3 units"
+      },
+      {
+        "question": "What is the measure of the central angle of a circle that intercepts an arc of 180 degrees?",
+        "choices": ["60 degrees", "90 degrees", "120 degrees", "180 degrees"],
+        "answer": "180 degrees"
+      },
+      {
+        "question": "What is the area of a trapezoid with bases 5 units and 9 units, and height 6 units?",
+        "choices": ["39 square units", "42 square units", "45 square units", "48 square units"],
+        "answer": "39 square units"
+      },
+      {
+        "question": "In a triangle, if two sides have lengths 5 units and 12 units, what is the possible range for the length of the third side?",
+        "choices": ["7 < x < 17", "7 < x < 19", "7 < x < 20", "7 < x < 24"],
+        "answer": "7 < x < 17"
+      },
+      {
+        "question": "What is the measure of each interior angle of a regular heptagon?",
+        "choices": ["128.57 degrees", "130 degrees", "132 degrees", "135 degrees"],
+        "answer": "128.57 degrees"
+      },
+      {
+        "question": "What is the area of a circle with radius 7 units?",
+        "choices": ["49π square units", "56π square units", "63π square units", "70π square units"],
+        "answer": "49π square units"
+      },
+      {
+        "question": "In a right triangle, if one leg has length 8 units and the other leg has length 15 units, what is the length of the hypotenuse?",
+        "choices": ["17 units", "19 units", "21 units", "23 units"],
+        "answer": "17 units"
+      },
+      {
+        "question": "What is the volume of a rectangular prism with length 5 units, width 7 units, and height 4 units?",
+        "choices": ["90 cubic units", "120 cubic units", "140 cubic units", "180 cubic units"],
+        "answer": "140 cubic units"
+      },
+      {
+        "question": "If the area of a square is 81 square units, what is the length of its diagonal?",
+        "choices": ["9 units", "12 units", "15 units", "18 units"],
+        "answer": "9 units"
+      },
+      {
+        "question": "What is the measure of each interior angle of a regular decagon?",
+        "choices": ["135 degrees", "140 degrees", "144 degrees", "150 degrees"],
+        "answer": "144 degrees"
+      },
+      {
+        "question": "What is the area of a triangle with sides of lengths 8 units, 15 units, and 17 units?",
+        "choices": ["60 square units", "64 square units", "66 square units", "72 square units"],
+        "answer": "60 square units"
+      },
+      {
+        "question": "In a circle with radius 8 units, what is the length of an arc that subtends a central angle of 120 degrees?",
+        "choices": ["8π units", "12π units", "16π units", "20π units"],
+        "answer": "4π units"
+      },
+      {
+        "question": "If the area of a rectangle is 56 square units and the length is 8 units, what is its width?",
+        "choices": ["6 units", "7 units", "8 units", "9 units"],
+        "answer": "7 units"
+      },
+      {
+        "question": "What is the volume of a cube with surface area 96 square units?",
+        "choices": ["27 cubic units", "36 cubic units", "48 cubic units", "64 cubic units"],
+        "answer": "27 cubic units"
+      },
+      {
+        "question": "If the perimeter of a rectangle is 18 units and the length is 4 units, what is its width?",
+        "choices": ["3 units", "4 units", "5 units", "6 units"],
+        "answer": "5 units"
+      },
+      {
+        "question": "What is the measure of the central angle of a circle that intercepts an arc of 270 degrees?",
+        "choices": ["90 degrees", "135 degrees", "180 degrees", "270 degrees"],
+        "answer": "270 degrees"
+      },
+      {
+        "question": "What is the area of a trapezoid with bases 7 units and 11 units, and height 8 units?",
+        "choices": ["72 square units", "80 square units", "88 square units", "96 square units"],
+        "answer": "72 square units"
+      },
+      {
+        "question": "In a triangle, if two sides have lengths 6 units and 10 units, what is the possible range for the length of the third side?",
+        "choices": ["4 < x < 16", "4 < x < 18", "4 < x < 20", "4 < x < 22"],
+        "answer": "4 < x < 16"
+      },
+      {
+        "question": "What is the measure of each interior angle of a regular nonagon?",
+        "choices": ["120 degrees", "128.57 degrees", "130 degrees", "135 degrees"],
+        "answer": "128.57 degrees"
+      },
+      {"question": "What is the area of a circle with radius 6 units?",
+      "choices": ["18π square units", "24π square units", "36π square units", "48π square units"],
+      "answer": "36π square units"
+    },
+    {
+      "question": "In a right triangle, if one leg has length 7 units and the other leg has length 24 units, what is the length of the hypotenuse?",
+      "choices": ["25 units", "26 units", "28 units", "30 units"],
+      "answer": "25 units"
+    },
+    {
+      "question": "What is the volume of a rectangular prism with length 6 units, width 8 units, and height 5 units?",
+      "choices": ["240 cubic units", "280 cubic units", "320 cubic units", "360 cubic units"],
+      "answer": "240 cubic units"
+    },
+    {
+      "question": "If the area of a square is 100 square units, what is the length of its diagonal?",
+      "choices": ["10 units", "12 units", "14 units", "16 units"],
+      "answer": "10 units"
+    },
+    {
+        "question": "What is the value of 3x + 7 when x = 4?",
+        "choices": ["15", "19", "21", "25"],
+        "answer": "19"
+      },
+      {
+        "question": "Simplify: 5x^2 + 3x - 2x^2 + 4",
+        "choices": ["3x^2 + 3x + 4", "3x^2 + 3x + 2", "3x^2 - 3x + 4", "3x^2 - 3x + 2"],
+        "answer": "3x^2 + 3x + 4"
+      },
+      {
+        "question": "If 2x - 5 = 7, what is the value of x?",
+        "choices": ["4", "6", "7", "9"],
+        "answer": "6"
+      },
+      {
+        "question": "What is the perimeter of a square with side length 9 units?",
+        "choices": ["18 units", "27 units", "36 units", "45 units"],
+        "answer": "36 units"
+      },
+      {
+        "question": "If a triangle has sides of lengths 3, 4, and 5 units, what type of triangle is it?",
+        "choices": ["Equilateral", "Isosceles", "Scalene", "Right"],
+        "answer": "Right"
+      },
+      {
+        "question": "What is the value of 4! (4 factorial)?",
+        "choices": ["12", "24", "36", "48"],
+        "answer": "24"
+      },
+      {
+        "question": "If 3x + 2y = 14 and x - y = 4, what is the value of x?",
+        "choices": ["2", "3", "4", "5"],
+        "answer": "6"
+      },
+      {
+        "question": "What is the sum of the first 20 positive integers?",
+        "choices": ["190", "200", "210", "220"],
+        "answer": "210"
+      },
+      {
+        "question": "If a rectangle has a length of 8 units and an area of 32 square units, what is its width?",
+        "choices": ["2 units", "4 units", "6 units", "8 units"],
+        "answer": "4 units"
+      },
+      {
+        "question": "If 2x + 1 = 11, what is the value of x?",
+        "choices": ["4", "5", "6", "7"],
+        "answer": "5"
+      },
+      {
+        "question": "What is the value of (2x + 3)(x - 2) when x = 4?",
+        "choices": ["16", "18", "20", "22"],
+        "answer": "18"
+      },
+      {
+        "question": "If 4x - 3y = 8 and x + y = 5, what is the value of y?",
+        "choices": ["1", "2", "3", "4"],
+        "answer": "2"
+      },
+      {
+        "question": "What is the square root of 225?",
+        "choices": ["12", "15", "18", "21"],
+        "answer": "15"
+      },
+      {
+        "question": "If a circle has a radius of 6 units, what is its diameter?",
+        "choices": ["6 units", "9 units", "12 units", "18 units"],
+        "answer": "12 units"
+      },
+      {
+        "question": "What is the value of 2^4 × 3^2?",
+        "choices": ["48", "72", "96", "144"],
+        "answer": "144"
+      },
+      {
+        "question": "If 5x + 2 = 22, what is the value of x?",
+        "choices": ["4", "5", "6", "7"],
+        "answer": "4"
+      },
+      {
+        "question": "What is the area of a triangle with base 6 units and height 8 units?",
+        "choices": ["24 square units", "30 square units", "36 square units", "48 square units"],
+        "answer": "24 square units"
+      },
+      {
+        "question": "If a rectangle has a perimeter of 28 units and a length of 10 units, what is its width?",
+        "choices": ["4 units", "6 units", "8 units", "10 units"],
+        "answer": "2 units"
+      },
+      {
+        "question": "What is the value of 2y^3 when y = 3?",
+        "choices": ["12", "18", "24", "27"],
+        "answer": "54"
+      },
+      {
+        "question": "If 3x - 4 = 8, what is the value of x?",
+        "choices": ["4", "5", "6", "7"],
+        "answer": "4"
+      },
+      {
+        "question": "What is the value of 7^2 - 5^2?",
+        "choices": ["24", "36", "48", "56"],
+        "answer": "24"
+      },
+      {
+        "question": "What is the value of 2x + 5 when x = 3?",
+        "choices": ["7", "9", "11", "13"],
+        "answer": "11"
+      },
+      {
+        "question": "Simplify: (2x + 3)(x - 4)",
+        "choices": ["2x^2 - 5x - 12", "2x^2 - 5x + 12", "2x^2 + 5x - 12", "2x^2 + 5x + 12"],
+        "answer": "2x^2 - 5x - 12"
+      },
+      {
+        "question": "If 3x - 2 = 10, what is the value of x?",
+        "choices": ["4", "5", "6", "7"],
+        "answer": "4"
+      },
+      {
+        "question": "What is the perimeter of a rectangle with length 10 units and width 6 units?",
+        "choices": ["20 units", "30 units", "36 units", "50 units"],
+        "answer": "32 units"
+      },
+      {
+        "question": "If a circle has a diameter of 10 units, what is its radius?",
+        "choices": ["5 units", "10 units", "15 units", "20 units"],
+        "answer": "5 units"
+      },
+      {
+        "question": "What is the square root of 144?",
+        "choices": ["10", "11", "12", "13"],
+        "answer": "12"
+      },
+      {
+        "question": "If 2x - 3y = 10 and x + y = 5, what is the value of x?",
+        "choices": ["2", "3", "4", "5"],
+        "answer": "3"
+      },
+      {
+        "question": "What is the sum of the first 10 positive integers?",
+        "choices": ["45", "50", "55", "60"],
+        "answer": "55"
+      },
+      {
+        "question": "If a rectangle has an area of 24 square units and a length of 6 units, what is its width?",
+        "choices": ["2 units", "3 units", "4 units", "5 units"],
+        "answer": "4 units"
+      },
+      {
+        "question": "If 3x + 4 = 16, what is the value of x?",
+        "choices": ["4", "6", "8", "10"],
+        "answer": "4"
+      },
+      {
+        "question": "What is the area of a rectangle with length 6 units and width 4 units?",
+        "choices": ["20 square units", "24 square units", "30 square units", "36 square units"],
+        "answer": "24 square units"
+      },
+      {
+        "question": "If a triangle has angles measuring 30°, 60°, and x°, what is the value of x?",
+        "choices": ["30°", "45°", "60°", "90°"],
+        "answer": "90°"
+      },
+      {
+        "question": "If a square has a perimeter of 24 units, what is the length of one side?",
+        "choices": ["4 units", "6 units", "8 units", "12 units"],
+        "answer": "6 units"
+      },
+      {
+        "question": "What is the value of 2^3 × 3^2?",
+        "choices": ["72", "108", "216", "512"],
+        "answer": "72"
+      },
+      {
+        "question": "If a car travels at a constant speed of 60 miles per hour, how far will it travel in 2.5 hours?",
+        "choices": ["120 miles", "150 miles", "180 miles", "200 miles"],
+        "answer": "150 miles"
+      }
+  ]
+  

@@ -1,0 +1,588 @@
+[
+    {
+      "question": "Despite his __________ behavior, he managed to charm his way into everyone's good graces.",
+      "choices": ["obstinate", "ingratiating", "mollifying", "prosaic"],
+      "answer": "obstinate"
+    },
+    {
+      "question": "The company's decision to relocate its headquarters was met with __________ from the employees.",
+      "choices": ["acclaim", "reverence", "consternation", "serenity"],
+      "answer": "consternation"
+    },
+    {
+      "question": "Her novel was widely praised for its __________ prose and intricate plot.",
+      "choices": ["pedestrian", "ornate", "inchoate", "palliative"],
+      "answer": "ornate"
+    },
+    {
+      "question": "The new legislation was seen as a __________ to the efforts of environmentalists to protect the region's natural resources.",
+      "choices": ["victory", "boon", "rebuff", "melange"],
+      "answer": "rebuff"
+    },
+    {
+      "question": "His penchant for __________ made it difficult for him to hold down a steady job.",
+      "choices": ["punctiliousness", "languor", "indolence", "scrupulosity"],
+      "answer": "languor"
+    },
+    {
+      "question": "The artist's work was characterized by its __________ use of color and form.",
+      "choices": ["subdued", "exuberant", "equivocal", "insipid"],
+      "answer": "exuberant"
+    },
+    {
+      "question": "The diplomat's __________ negotiation skills helped to avert a potential conflict between the two nations.",
+      "choices": ["adroit", "inept", "sagacious", "obtuse"],
+      "answer": "adroit"
+    },
+    {
+      "question": "His __________ speech at the conference failed to inspire confidence in the audience.",
+      "choices": ["eloquent", "taciturn", "garrulous", "loquacious"],
+      "answer": "taciturn"
+    },
+    {
+      "question": "The politician's __________ remarks drew criticism from both sides of the aisle.",
+      "choices": ["insipid", "ebullient", "incisive", "caustic"],
+      "answer": "caustic"
+    },
+    {
+      "question": "Despite the __________ weather, the team continued with their outdoor practice.",
+      "choices": ["temperate", "inclement", "mild", "balmy"],
+      "answer": "inclement"
+    },
+    {
+      "question": "His __________ attitude towards his studies eventually led to his academic downfall.",
+      "choices": ["tenacious", "zealous", "lackadaisical", "assiduous"],
+      "answer": "lackadaisical"
+    },
+    {
+      "question": "The novel's __________ ending left readers pondering its meaning long after they had finished reading.",
+      "choices": ["ambiguous", "unequivocal", "diaphanous", "obfuscated"],
+      "answer": "ambiguous"
+    },
+    {
+      "question": "The __________ of her argument persuaded even the staunchest critics of its validity.",
+      "choices": ["mendacity", "candor", "sophistry", "veracity"],
+      "answer": "veracity"
+    },
+    {
+      "question": "His __________ for the finer things in life often led him to spend beyond his means.",
+      "choices": ["frugality", "ostentation", "austerity", "parsimony"],
+      "answer": "ostentation"
+    },
+    {
+      "question": "The __________ of the orchestra captivated the audience and held them spellbound throughout the performance.",
+      "choices": ["cacophony", "symphony", "discord", "harmony"],
+      "answer": "symphony"
+    },
+    {
+      "question": "The professor's __________ lectures were often punctuated by bursts of laughter from his students.",
+      "choices": ["soporific", "riveting", "insipid", "engrossing"],
+      "answer": "engrossing"
+    },
+    {
+      "question": "The company's decision to lay off hundreds of workers was met with __________ by the affected employees.",
+      "choices": ["alacrity", "stoicism", "consternation", "apathy"],
+      "answer": "consternation"
+    },
+    {
+      "question": "The politician's __________ behavior alienated many of his supporters.",
+      "choices": ["gregarious", "affable", "contentious", "convivial"],
+      "answer": "contentious"
+    },
+    {
+      "question": "The artist's __________ style made it difficult for critics to categorize her work within a particular genre.",
+      "choices": ["mercurial", "consistent", "reliable", "steadfast"],
+      "answer": "mercurial"
+    },
+    {
+      "question": "The author's __________ language and vivid descriptions brought the characters to life on the page.",
+      "choices": ["banal", "insipid", "luminous", "mundane"],
+      "answer": "luminous"
+    },
+    {
+      "question": "The student's __________ efforts paid off when she received a scholarship to attend her dream college.",
+      "choices": ["diligent", "indolent", "languid", "lackadaisical"],
+      "answer": "diligent"
+    },
+    {
+      "question": "The government's __________ response to the crisis exacerbated the situation, leading to widespread panic.",
+      "choices": ["timely", "expeditious", "languid", "tardy"],
+      "answer": "languid"
+    },
+    {
+      "question": "The scientist's __________ research laid the groundwork for future discoveries in the field of genetics.",
+      "choices": ["pedantic", "innovative", "conventional", "orthodox"],
+      "answer": "innovative"
+    },
+    {
+      "question": "The actor's __________ performance in the lead role earned him rave reviews from critics.",
+      "choices": ["lackluster", "stellar", "mediocre", "unsurpassed"],
+      "answer": "stellar"
+    },
+    {
+      "question": "The lawyer's __________ argument persuaded the jury to convict the defendant of all charges.",
+      "choices": ["persuasive", "ineffectual", "compelling", "cogent"],
+      "answer": "compelling"
+    },
+    {
+      "question": "The __________ of the new product exceeded all expectations, leading to record-breaking sales.",
+      "choices": ["popularity", "unpopularity", "reception", "circulation"],
+      "answer": "popularity"
+    },
+    {
+      "question": "The artist's __________ paintings were displayed in galleries around the world.",
+      "choices": ["mundane", "banal", "pedestrian", "exquisite"],
+      "answer": "exquisite"
+    },
+    {
+      "question": "The teacher's __________ instructions made it difficult for the students to understand the assignment.",
+      "choices": ["ambiguous", "precise", "clear", "vague"],
+      "answer": "ambiguous"
+    },
+    {
+      "question": "The CEO's __________ leadership style inspired confidence among employees and shareholders alike.",
+      "choices": ["authoritarian", "benevolent", "egalitarian", "tyrannical"],
+      "answer": "benevolent"
+    },
+    {
+      "question": "The __________ of the novel's plot kept readers guessing until the very end.",
+      "choices": ["predictability", "tumult", "unpredictability", "stability"],
+      "answer": "unpredictability"
+    },
+    {
+      "question": "The politician's __________ speech failed to resonate with voters, who viewed it as insincere and calculated.",
+      "choices": ["genuine", "authentic", "spurious", "sincere"],
+      "answer": "spurious"
+    },
+    {
+      "question": "The teacher's __________ demeanor helped to create a positive and productive learning environment.",
+      "choices": ["affable", "aloof", "intimidating", "approachable"],
+      "answer": "approachable"
+    },
+    {
+      "question": "The __________ of the movie left audiences stunned and speechless.",
+      "choices": ["banality", "mediocrity", "poignancy", "triviality"],
+      "answer": "poignancy"
+    },
+    {
+      "question": "The diplomat's __________ efforts to negotiate a peace treaty were ultimately successful.",
+      "choices": ["abortive", "fruitful", "ineffectual", "futile"],
+      "answer": "fruitful"
+    },
+    {
+      "question": "The __________ debate over immigration policy divided the country along partisan lines.",
+      "choices": ["rancorous", "amicable", "cordial", "congenial"],
+      "answer": "rancorous"
+    },
+    {
+      "question": "The company's __________ business practices eventually led to its downfall.",
+      "choices": ["unscrupulous", "scrupulous", "conscientious", "ethical"],
+      "answer": "unscrupulous"
+    },
+    {
+      "question": "The __________ of the student's essay was evident in its eloquent prose and cogent arguments.",
+      "choices": ["efficacy", "ineffectiveness", "efficiency", "effectiveness"],
+      "answer": "efficacy"
+    },
+    {
+      "question": "The author's __________ novel explored themes of identity and belonging in contemporary society.",
+      "choices": ["canonical", "innovative", "traditional", "conventional"],
+      "answer": "innovative"
+    },
+    {
+      "question": "The mayor's __________ decision to raise taxes angered many residents of the city.",
+      "choices": ["unilateral", "bilateral", "multilateral", "reciprocal"],
+      "answer": "unilateral"
+    },
+    {
+      "question": "The __________ of the actor's performance left audiences mesmerized.",
+      "choices": ["mediocrity", "brilliance", "subtlety", "simplicity"],
+      "answer": "brilliance"
+    },
+    {
+      "question": "The author's __________ writing style made her novels accessible to readers of all ages.",
+      "choices": ["arcane", "esoteric", "obscure", "accessible"],
+      "answer": "accessible"
+    },
+    {
+      "question": "The professor's __________ lecture on quantum mechanics left the students confused and frustrated.",
+      "choices": ["lucid", "opaque", "intelligible", "comprehensible"],
+      "answer": "opaque"
+    },
+    {
+      "question": "The __________ of the government's response to the crisis only served to exacerbate the situation.",
+      "choices": ["efficacy", "ineffectiveness", "efficiency", "effectiveness"],
+      "answer": "ineffectiveness"
+    },
+    {
+      "question": "The CEO's __________ management style created a toxic work environment.",
+      "choices": ["benevolent", "authoritarian", "democratic", "egalitarian"],
+      "answer": "authoritarian"
+    },
+    {
+      "question": "The __________ of the movie's soundtrack added to its overall emotional impact.",
+      "choices": ["insipidity", "banality", "poignancy", "triviality"],
+      "answer": "poignancy"
+    },
+    {
+      "question": "The __________ of the actor's performance earned him critical acclaim.",
+      "choices": ["banality", "mediocrity", "brilliance", "subtlety"],
+      "answer": "brilliance"
+    },
+    {
+      "question": "The author's __________ prose captivated readers and critics alike.",
+      "choices": ["pedantic", "lucid", "insipid", "opaque"],
+      "answer": "lucid"
+    },
+    {
+      "question": "The CEO's __________ decision to expand the company's operations proved to be a costly mistake.",
+      "choices": ["prudent", "reckless", "judicious", "imprudent"],
+      "answer": "reckless"
+    },
+    {
+      "question": "The __________ of the politician's argument failed to persuade voters to support his candidacy.",
+      "choices": ["coherence", "incoherence", "clarity", "ambiguity"],
+      "answer": "incoherence"
+    },
+    {
+      "question": "The teacher's __________ explanation of the concept made it easier for students to understand.",
+      "choices": ["convoluted", "lucid", "clear", "transparent"],
+      "answer": "lucid"
+    },
+    {
+      "question": "The artist's __________ use of color and form challenged traditional notions of beauty.",
+      "choices": ["conventional", "orthodox", "innovative", "canonical"],
+      "answer": "innovative"
+    },
+    {
+      "question": "The __________ of the company's financial records raised suspicions of fraud.",
+      "choices": ["transparency", "opacity", "clarity", "obfuscation"],
+      "answer": "opacity"
+    },
+    {
+      "question": "The CEO's __________ leadership style fostered a sense of loyalty among employees.",
+      "choices": ["democratic", "benevolent", "authoritarian", "egalitarian"],
+      "answer": "benevolent"
+    },
+    {
+      "question": "The __________ of the politician's argument failed to sway public opinion.",
+      "choices": ["eloquence", "inarticulateness", "articulateness", "verbosity"],
+      "answer": "inarticulateness"
+    },
+    {
+      "question": "The __________ of the movie's special effects left audiences awestruck.",
+      "choices": ["mediocrity", "excellence", "brilliance", "subtlety"],
+      "answer": "excellence"
+    },
+    {
+      "question": "The teacher's __________ grading system rewarded effort rather than results.",
+      "choices": ["stringent", "lenient", "rigorous", "permissive"],
+      "answer": "lenient"
+    },
+    {
+      "question": "The __________ of the CEO's decision to cut costs resulted in a significant drop in profits.",
+      "choices": ["wisdom", "folly", "prudence", "judgment"],
+      "answer": "folly"
+    },
+    {
+      "question": "The __________ of the scientist's theories challenged established paradigms in the field of physics.",
+      "choices": ["validity", "invalidity", "legitimacy", "illegitimacy"],
+      "answer": "validity"
+    },
+    {
+      "question": "The __________ of the artist's work made it difficult for critics to interpret its meaning.",
+      "choices": ["ambiguity", "clarity", "transparency", "opacity"],
+      "answer": "ambiguity"
+    },
+    {
+      "question": "The __________ of the politician's promises led to widespread disillusionment among voters.",
+      "choices": ["fulfillment", "betrayal", "realization", "achievement"],
+      "answer": "betrayal"
+    },
+    {
+      "question": "The __________ of the novel's plot kept readers guessing until the very end.",
+      "choices": ["predictability", "tumult", "unpredictability", "stability"],
+      "answer": "unpredictability"
+    },
+    {
+      "question": "The __________ of the government's response to the crisis only served to exacerbate the situation.",
+      "choices": ["efficacy", "ineffectiveness", "efficiency", "effectiveness"],
+      "answer": "ineffectiveness"
+    },
+    {
+      "question": "The CEO's __________ management style created a toxic work environment.",
+      "choices": ["benevolent", "authoritarian", "democratic", "egalitarian"],
+      "answer": "authoritarian"
+    },
+    {
+      "question": "The __________ of the movie's soundtrack added to its overall emotional impact.",
+      "choices": ["insipidity", "banality", "poignancy", "triviality"],
+      "answer": "poignancy"
+    },
+    {
+      "question": "The __________ of the actor's performance earned him critical acclaim.",
+      "choices": ["banality", "mediocrity", "brilliance", "subtlety"],
+      "answer": "brilliance"
+    },
+    {
+      "question": "The author's __________ prose captivated readers and critics alike.",
+      "choices": ["pedantic", "lucid", "insipid", "opaque"],
+      "answer": "lucid"
+    },
+    {
+      "question": "The CEO's __________ decision to expand the company's operations proved to be a costly mistake.",
+      "choices": ["prudent", "reckless", "judicious", "imprudent"],
+      "answer": "reckless"
+    },
+    {
+      "question": "The __________ of the politician's argument failed to persuade voters to support his candidacy.",
+      "choices": ["coherence", "incoherence", "clarity", "ambiguity"],
+      "answer": "incoherence"
+    },
+    {
+      "question": "The teacher's __________ explanation of the concept made it easier for students to understand.",
+      "choices": ["convoluted", "lucid", "clear", "transparent"],
+      "answer": "lucid"
+    },
+    {
+      "question": "The artist's __________ use of color and form challenged traditional notions of beauty.",
+      "choices": ["conventional", "orthodox", "innovative", "canonical"],
+      "answer": "innovative"
+    },
+    {
+      "question": "The __________ of the company's financial records raised suspicions of fraud.",
+      "choices": ["transparency", "opacity", "clarity", "obfuscation"],
+      "answer": "opacity"
+    },
+    {
+      "question": "The CEO's __________ leadership style fostered a sense of loyalty among employees.",
+      "choices": ["democratic", "benevolent", "authoritarian", "egalitarian"],
+      "answer": "benevolent"
+    },
+    {
+      "question": "The __________ of the politician's argument failed to sway public opinion.",
+      "choices": ["eloquence", "inarticulateness", "articulateness", "verbosity"],
+      "answer": "inarticulateness"
+    },
+    {
+      "question": "The __________ of the movie's special effects left audiences awestruck.",
+      "choices": ["mediocrity", "excellence", "brilliance", "subtlety"],
+      "answer": "excellence"
+    },
+    {
+      "question": "The teacher's __________ grading system rewarded effort rather than results.",
+      "choices": ["stringent", "lenient", "rigorous", "permissive"],
+      "answer": "lenient"
+    },
+    {
+      "question": "The __________ of the CEO's decision to cut costs resulted in a significant drop in profits.",
+      "choices": ["wisdom", "folly", "prudence", "judgment"],
+      "answer": "folly"
+    },
+    {
+      "question": "The __________ of the scientist's theories challenged established paradigms in the field of physics.",
+      "choices": ["validity", "invalidity", "legitimacy", "illegitimacy"],
+      "answer": "validity"
+    },
+    {
+      "question": "The __________ of the artist's work made it difficult for critics to interpret its meaning.",
+      "choices": ["ambiguity", "clarity", "transparency", "opacity"],
+      "answer": "ambiguity"
+    },
+    {
+      "question": "The __________ of the politician's promises led to widespread disillusionment among voters.",
+      "choices": ["fulfillment", "betrayal", "realization", "achievement"],
+      "answer": "betrayal"
+    },
+    {
+      "question": "The __________ of the novel's plot kept readers guessing until the very end.",
+      "choices": ["predictability", "tumult", "unpredictability", "stability"],
+      "answer": "unpredictability"
+    },
+    {
+      "question": "The __________ of the government's response to the crisis only served to exacerbate the situation.",
+      "choices": ["efficacy", "ineffectiveness", "efficiency", "effectiveness"],
+      "answer": "ineffectiveness"
+    },
+    {
+      "question": "The CEO's __________ management style created a toxic work environment.",
+      "choices": ["benevolent", "authoritarian", "democratic", "egalitarian"],
+      "answer": "authoritarian"
+    },
+    {
+      "question": "The __________ of the movie's soundtrack added to its overall emotional impact.",
+      "choices": ["insipidity", "banality", "poignancy", "triviality"],
+      "answer": "poignancy"
+    },
+    {
+      "question": "The __________ of the actor's performance earned him critical acclaim.",
+      "choices": ["banality", "mediocrity", "brilliance", "subtlety"],
+      "answer": "brilliance"
+    },
+    {
+      "question": "The author's __________ prose captivated readers and critics alike.",
+      "choices": ["pedantic", "lucid", "insipid", "opaque"],
+      "answer": "lucid"
+    },
+    {
+      "question": "The CEO's __________ decision to expand the company's operations proved to be a costly mistake.",
+      "choices": ["prudent", "reckless", "judicious", "imprudent"],
+      "answer": "reckless"
+    },
+    {
+      "question": "The __________ of the politician's argument failed to persuade voters to support his candidacy.",
+      "choices": ["coherence", "incoherence", "clarity", "ambiguity"],
+      "answer": "incoherence"
+    },
+    {
+      "question": "The teacher's __________ explanation of the concept made it easier for students to understand.",
+      "choices": ["convoluted", "lucid", "clear", "transparent"],
+      "answer": "lucid"
+    },
+    {
+      "question": "The artist's __________ use of color and form challenged traditional notions of beauty.",
+      "choices": ["conventional", "orthodox", "innovative", "canonical"],
+      "answer": "innovative"
+    },
+    {
+      "question": "The __________ of the company's financial records raised suspicions of fraud.",
+      "choices": ["transparency", "opacity", "clarity", "obfuscation"],
+      "answer": "opacity"
+    },
+    {
+      "question": "The CEO's __________ leadership style fostered a sense of loyalty among employees.",
+      "choices": ["democratic", "benevolent", "authoritarian", "egalitarian"],
+      "answer": "benevolent"
+    },
+    {
+      "question": "The __________ of the politician's argument failed to sway public opinion.",
+      "choices": ["eloquence", "inarticulateness", "articulateness", "verbosity"],
+      "answer": "inarticulateness"
+    },
+    {
+      "question": "The __________ of the movie's special effects left audiences awestruck.",
+      "choices": ["mediocrity", "excellence", "brilliance", "subtlety"],
+      "answer": "excellence"
+    },
+    {
+      "question": "The teacher's __________ grading system rewarded effort rather than results.",
+      "choices": ["stringent", "lenient", "rigorous", "permissive"],
+      "answer": "lenient"
+    },
+    {
+      "question": "The __________ of the CEO's decision to cut costs resulted in a significant drop in profits.",
+      "choices": ["wisdom", "folly", "prudence", "judgment"],
+      "answer": "folly"
+    },
+    {
+      "question": "The __________ of the scientist's theories challenged established paradigms in the field of physics.",
+      "choices": ["validity", "invalidity", "legitimacy", "illegitimacy"],
+      "answer": "validity"
+    },
+    {
+      "question": "The __________ of the artist's work made it difficult for critics to interpret its meaning.",
+      "choices": ["ambiguity", "clarity", "transparency", "opacity"],
+      "answer": "ambiguity"
+    },
+    {
+      "question": "The __________ of the politician's promises led to widespread disillusionment among voters.",
+      "choices": ["fulfillment", "betrayal", "realization", "achievement"],
+      "answer": "betrayal"
+    },
+    {
+      "question": "The __________ of the novel's plot kept readers guessing until the very end.",
+      "choices": ["predictability", "tumult", "unpredictability", "stability"],
+      "answer": "unpredictability"
+    },
+    {
+      "question": "The __________ of the government's response to the crisis only served to exacerbate the situation.",
+      "choices": ["efficacy", "ineffectiveness", "efficiency", "effectiveness"],
+      "answer": "ineffectiveness"
+    },
+    {
+      "question": "The CEO's __________ management style created a toxic work environment.",
+      "choices": ["benevolent", "authoritarian", "democratic", "egalitarian"],
+      "answer": "authoritarian"
+    },
+    {
+      "question": "The __________ of the movie's soundtrack added to its overall emotional impact.",
+      "choices": ["insipidity", "banality", "poignancy", "triviality"],
+      "answer": "poignancy"
+    },
+    {
+      "question": "The __________ of the actor's performance earned him critical acclaim.",
+      "choices": ["banality", "mediocrity", "brilliance", "subtlety"],
+      "answer": "brilliance"
+    },
+    {
+      "question": "The author's __________ prose captivated readers and critics alike.",
+      "choices": ["pedantic", "lucid", "insipid", "opaque"],
+      "answer": "lucid"
+    },
+    {
+      "question": "The CEO's __________ decision to expand the company's operations proved to be a costly mistake.",
+      "choices": ["prudent", "reckless", "judicious", "imprudent"],
+      "answer": "reckless"
+    },
+    {
+      "question": "The __________ of the politician's argument failed to persuade voters to support his candidacy.",
+      "choices": ["coherence", "incoherence", "clarity", "ambiguity"],
+      "answer": "incoherence"
+    },
+    {
+      "question": "The teacher's __________ explanation of the concept made it easier for students to understand.",
+      "choices": ["convoluted", "lucid", "clear", "transparent"],
+      "answer": "lucid"
+    },
+    {
+      "question": "The artist's __________ use of color and form challenged traditional notions of beauty.",
+      "choices": ["conventional", "orthodox", "innovative", "canonical"],
+      "answer": "innovative"
+    },
+    {
+      "question": "The __________ of the company's financial records raised suspicions of fraud.",
+      "choices": ["transparency", "opacity", "clarity", "obfuscation"],
+      "answer": "opacity"
+    },
+    {
+      "question": "The CEO's __________ leadership style fostered a sense of loyalty among employees.",
+      "choices": ["democratic", "benevolent", "authoritarian", "egalitarian"],
+      "answer": "benevolent"
+    },
+    {
+      "question": "The __________ of the politician's argument failed to sway public opinion.",
+      "choices": ["eloquence", "inarticulateness", "articulateness", "verbosity"],
+      "answer": "inarticulateness"
+    },
+    {
+      "question": "The __________ of the movie's special effects left audiences awestruck.",
+      "choices": ["mediocrity", "excellence", "brilliance", "subtlety"],
+      "answer": "excellence"
+    },
+    {
+      "question": "The teacher's __________ grading system rewarded effort rather than results.",
+      "choices": ["stringent", "lenient", "rigorous", "permissive"],
+      "answer": "lenient"
+    },
+    {
+      "question": "The __________ of the CEO's decision to cut costs resulted in a significant drop in profits.",
+      "choices": ["wisdom", "folly", "prudence", "judgment"],
+      "answer": "folly"
+    },
+    {
+      "question": "The __________ of the scientist's theories challenged established paradigms in the field of physics.",
+      "choices": ["validity", "invalidity", "legitimacy", "illegitimacy"],
+      "answer": "validity"
+    },
+    {
+      "question": "The __________ of the artist's work made it difficult for critics to interpret its meaning.",
+      "choices": ["ambiguity", "clarity", "transparency", "opacity"],
+      "answer": "ambiguity"
+    },
+    {
+      "question": "The __________ of the politician's promises led to widespread disillusionment among voters.",
+      "choices": ["fulfillment", "betrayal", "realization", "achievement"],
+      "answer": "betrayal"
+    }
+  ]
+  

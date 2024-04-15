@@ -37,4 +37,6 @@ next-env.d.ts
 
 # secret keys
 secrets.json
-*.env
+.env
+pics/
+.vercel
