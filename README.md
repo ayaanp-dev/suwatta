@@ -21,12 +21,19 @@ THIS IS A NEXTJS HEAVY PROJECT - It is my first time using every single one of t
 This code is a bit messy so bear with me
 
 *navbar.tsx* - Navigation bar, self-explanatory
+<br>
 *question.tsx* - This is a building block component as it tells the code exactly what each question in each practice should look like and how it is structed. It also reads all the question data.
+<br>
 *streak-calendar.tsx* - On top of calendar component, it keeps a streak of how many days you have used Suwatta, you get more points each day you keep a streak - inspired by Duolingo
+<br>
 *math-practice-carousel.tsx* - It is the component of each math practice
+<br>
 *english-practice-carousel.tsx* - It is the component of each english practice
+<br>
 *dialog.tsx* - That is how the practices are actually opened, rather than creating a new page for each practice, a dialog just pops up
+<br>
 *db.ts* - connects to Turso database using Drizzle, stores points
+<br>
 *kindeAuth* - Authentication system
 
 ## Feedback
